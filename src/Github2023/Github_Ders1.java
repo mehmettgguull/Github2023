@@ -5,6 +5,7 @@ public class Github_Ders1 {
         System.out.println("bu sefer de olmazsa hiç olmasın");
         System.out.println("bu sefer de olmazsa hiç olmasın");
         System.out.println("saçmalık");
+        System.out.println("çiçek");
 
     }
 }
